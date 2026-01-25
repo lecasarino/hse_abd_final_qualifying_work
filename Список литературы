@@ -1,0 +1,41 @@
+СПИСОК ЛИТЕРАТУРЫ
+	1.	Ху Ю., Корен Й., Волинский К.
+Коллаборативная фильтрация для наборов данных с неявной обратной связью // Proceedings of the IEEE International Conference on Data Mining. – 2008.
+	2.	Корен Й.
+Коллаборативная фильтрация с учетом временной динамики // Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. – 2009.
+	3.	Рендле С.
+Факторизационные машины // Proceedings of the IEEE International Conference on Data Mining. – 2010.
+	4.	Чэн Х.-Т., Кочер Дж., Адамс Д., Саргин Э.
+Широкие и глубокие нейронные сети для рекомендательных систем // Proceedings of the ACM Workshop on Deep Learning for Recommender Systems. – 2016.
+	5.	Го Х., Тан Ж., Сун Ю., Ли В.
+DeepFM: нейронная модель на основе факторизационных машин для прогнозирования кликов // Proceedings of the International Joint Conference on Artificial Intelligence. – 2017.
+	6.	Ван Р., Фу Б., Фу Г., Ван М.
+Deep & Cross Network для прогнозирования кликов // Proceedings of the ACM Conference on Recommender Systems. – 2017.
+	7.	Лян Ю., Чжоу Ц., Чжан Х., Ван С.
+xDeepFM: явное моделирование высокоуровневых взаимодействий признаков // Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. – 2018.
+	8.	Хэ С., Ляо Л., Чжан Х., Ньё Л., Чуа Т.-С.
+Нейронная коллаборативная фильтрация // Proceedings of the World Wide Web Conference. – 2017.
+	9.	Хидаси Б., Карци Д., Тикковски А.
+Сессионные рекомендательные системы на основе рекуррентных нейронных сетей // Proceedings of the International Conference on Learning Representations. – 2016.
+	10.	Кан В., Маколи Дж.
+Само-внимание для последовательных рекомендаций (SASRec) // Proceedings of the IEEE International Conference on Data Mining. – 2018.
+	11.	Сун Ф., Лю Д., У Х., Се К.
+BERT4Rec: двунаправленные трансформеры для последовательных рекомендаций // Proceedings of the ACM Conference on Information and Knowledge Management. – 2019.
+	12.	Чжоу Г., Жу Ч., Сонг Ц., Фань Ю., Чжан Х.
+Deep Interest Network для прогнозирования кликов // Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. – 2018.
+	13.	Чжоу Г., Жу Ч., Сонг Ц., Фань Ю., Чжан Х.
+Deep Interest Evolution Network: моделирование динамики пользовательских интересов // Proceedings of the AAAI Conference on Artificial Intelligence. – 2019.
+	14.	Пан Ж., Шольц М.
+Моделирование потребительского поведения при покупке в электронной коммерции // Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. – 2009.
+	15.	Мо У., Фейдер П.
+Динамическое поведение конверсии на сайтах электронной коммерции // Management Science. – 2004.
+	16.	Ковингтон П., Адамс Д., Саргин Э.
+Глубинные нейронные сети для рекомендательных систем YouTube // Proceedings of the ACM Conference on Recommender Systems. – 2016.
+	17.	Ма С., Чжоу Г., Чжао Т., Вэнь Ц.
+ESMM: многоцелевая модель для прогнозирования конверсии // Proceedings of the ACM SIGIR Conference on Research and Development in Information Retrieval. – 2018.
+	18.	Чжан С., Ю Я., Чжу Ф., Линь С.
+Интерпретируемые рекомендательные системы: обзор // IEEE Transactions on Knowledge and Data Engineering. – 2020.
+	19.	Аггарвал Ч.
+Рекомендательные системы: учебник. – Springer, 2016.
+	20.	Риччи Ф., Рокач Л., Шапира Б.
+Справочник по рекомендательным системам. – Springer, 2015.
